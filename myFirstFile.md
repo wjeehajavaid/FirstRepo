@@ -1,4 +1,5 @@
 we are in  GIT 101 session
+writing one more sentence
 # markdown preview to site(click ctrl+shift+p  a search ball will open type markdown preview to site and click here)
  > here we use markdown preview not terminal
  > for direct markdown preview (ctrl+shift+v)
